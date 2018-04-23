@@ -1,0 +1,25 @@
+C:\Users\Craig\AppData\Local\Temporary Projects\SavvyTempV1\bin\Debug\SavvyTempV1.exe
+C:\Users\Craig\AppData\Local\Temporary Projects\SavvyTempV1\bin\Debug\SavvyTempV1.pdb
+C:\Users\Craig\AppData\Local\Temporary Projects\SavvyTempV1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Craig\AppData\Local\Temporary Projects\SavvyTempV1\obj\x86\Debug\SavvyTempV1.Form1.resources
+C:\Users\Craig\AppData\Local\Temporary Projects\SavvyTempV1\obj\x86\Debug\SavvyTempV1.Properties.Resources.resources
+C:\Users\Craig\AppData\Local\Temporary Projects\SavvyTempV1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Craig\AppData\Local\Temporary Projects\SavvyTempV1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Craig\AppData\Local\Temporary Projects\SavvyTempV1\obj\x86\Debug\SavvyTempV1.exe
+C:\Users\Craig\AppData\Local\Temporary Projects\SavvyTempV1\obj\x86\Debug\SavvyTempV1.pdb
+C:\Users\Craig\Documents\Visual Studio 2010\Projects\SavvyTempV1\SavvyTempV1\obj\x86\Debug\SavvyTempV1.exe
+C:\Users\Craig\Documents\Visual Studio 2010\Projects\SavvyTempV1\SavvyTempV1\obj\x86\Debug\SavvyTempV1.pdb
+C:\Users\Craig\Documents\Visual Studio 2010\Projects\SavvyTempV1\SavvyTempV1\bin\Debug\SavvyTempV1.exe
+C:\Users\Craig\Documents\Visual Studio 2010\Projects\SavvyTempV1\SavvyTempV1\bin\Debug\SavvyTempV1.pdb
+C:\Users\Craig\Documents\Visual Studio 2010\Projects\SavvyTempV1\SavvyTempV1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Craig\Documents\Visual Studio 2010\Projects\SavvyTempV1\SavvyTempV1\obj\x86\Debug\SavvyTempV1.Form1.resources
+C:\Users\Craig\Documents\Visual Studio 2010\Projects\SavvyTempV1\SavvyTempV1\obj\x86\Debug\SavvyTempV1.Properties.Resources.resources
+C:\Users\Craig\Documents\Visual Studio 2010\Projects\SavvyTempV1\SavvyTempV1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Craig\Documents\Visual Studio 2010\Projects\SavvyTempV1\SavvyTempV1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Craig\Documents\Visual Studio 2010\Projects\SavvyTempV1\SavvyTempV1\obj\x86\Debug\SavvyTempV1.ProgrammerCalculator.resources
+C:\Users\Craig\Documents\Visual Studio 2010\Projects\SavvyTempV1\SavvyTempV1\obj\x86\Debug\SavvyTempV1.About__Calculator.resources
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\C#\SavvyTempV1\SavvyTempV1\obj\x86\Debug\SavvyTempV1.exe
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\C#\SavvyTempV1\SavvyTempV1\obj\x86\Debug\SavvyTempV1.pdb
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\C#\SavvyTempV1\SavvyTempV1\obj\x86\Debug\SavvyTempV1.csprojResolveAssemblyReference.cache
+C:\Users\Thane_Acheron\OneDrive\ThaneAcheron\Coding and Design\Miscellaneous\C#\SavvyTempV1\SavvyTempV1\obj\x86\Debug\SavvyTempV1.exe
+C:\Users\Thane_Acheron\OneDrive\ThaneAcheron\Coding and Design\Miscellaneous\C#\SavvyTempV1\SavvyTempV1\obj\x86\Debug\SavvyTempV1.pdb
